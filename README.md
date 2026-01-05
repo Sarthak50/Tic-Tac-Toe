@@ -81,7 +81,8 @@ Tic-Tac-Toe/
 
 ## 📸 Screenshots
 
-> *(Add screenshots of your game UI here)*
+> 
+<img width="1819" height="1020" alt="image" src="https://github.com/user-attachments/assets/9d456754-01e0-4226-bd46-4a09e4289bab" />
 
 ---
 
@@ -116,4 +117,3 @@ College Student | Learning Web Development & JavaScript
 
 If you found this project helpful, don’t forget to ⭐ the repository!
 
-<img width="1819" height="1020" alt="image" src="https://github.com/user-attachments/assets/9d456754-01e0-4226-bd46-4a09e4289bab" />
